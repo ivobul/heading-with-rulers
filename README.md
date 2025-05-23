@@ -10,4 +10,4 @@
 - [Advent of CSS 2024](https://store.selfteach.me/advent-of-css-2024)
 
 ### Solution
-- [Live Demo](https://ivobul.github.io/header-with-rulers/)
+- [Live Demo](https://ivobul.github.io/heading-with-rulers/)
