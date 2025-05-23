@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  align-items: center;
+  display: flex;
+  font-family: "Inter", sans-serif;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 40px 20px;
+  overflow: hidden;
+}
+
+h1 {
+  font-size: 4.5rem;
+  padding: 0 30px;
+  position: relative;
+}
+
+h1::after,
+h1::before {
+  background-color: #1F1F1F;
+  content: "";
+  height: 1px;
+  position: absolute;
+  top: 50%;
+  width: 201px;
+}
+
+h1::after {
+  right: -201px;
+}
+
+h1::before {
+  left: -201px;
+}
