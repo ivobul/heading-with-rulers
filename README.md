@@ -2,10 +2,6 @@
   
 ## Challenge #4 - Heading with Rulers
 
-### Requirements
-- Style a heading with rulers on either side of the heading.
-
-
 ### Link to the official site
 - [Advent of CSS 2024](https://store.selfteach.me/advent-of-css-2024)
 
